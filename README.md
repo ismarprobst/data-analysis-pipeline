@@ -63,4 +63,8 @@ where "network" is the docker-compose network created, then is the image name, t
 You can check then on the pgadmin address if its working. (or pgcli on terminal)
 
 
+-----------------
+
+Use the data ingestion jupyter notebook to ingest the zones table.
+
 
